@@ -129,7 +129,7 @@ export default function FlowerGame() {
           onClick={handleClick}
         />
         <div className="mt-4 text-center text-gray-700">
-          <p>NO SE QUE PONER XD </p>
+          <p>AUN NO SE QUE MAS PONER  XD </p>
         </div>
         <div className="mt-2 text-sm text-gray-500">BY FRITSH</div>
       </div>
